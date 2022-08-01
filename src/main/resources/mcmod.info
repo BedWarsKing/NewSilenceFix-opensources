@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "NewSlience",
+    "name": "NewSlience",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "QQGroup:2063570100",
+    "updateUrl": "",
+    "authorList": [
+      "XinXin"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
